@@ -1,2 +1,2 @@
 # music-rating-website
-Eventually the code for the music rating website will be here, while I clean stuff up and fix it you can find a link to it instead.
+I intend to eventually release the code for the website. However I am currently refactoring some of it, and fixing some bugs. For now you can find the website at https://music.lewisdick.com
